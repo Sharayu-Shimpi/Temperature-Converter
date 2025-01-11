@@ -1,0 +1,44 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    text-align: center;
+    padding: 20px;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  .converter-container {
+    margin-top: 20px;
+  }
+
+  input, select, button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+  }
+
+  input {
+    width: 150px;
+  }
+
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  #result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+
